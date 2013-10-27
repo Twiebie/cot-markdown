@@ -4,6 +4,7 @@
 Code=markdown
 Name=Markdown Parser
 Description=Markdown parser for Cotonti Siena.
+Category=editor-parser
 Version=0.9
 Date=2013-10-26
 Author=Twiebie
